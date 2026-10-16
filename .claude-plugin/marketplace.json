@@ -16,6 +16,7 @@
         "./skills/postgres",
         "./skills/imagen",
         "./skills/azure-devops",
+        "./skills/ac-verify",
         "./skills/apple-container",
         "./skills/deep-research",
         "./skills/outline",
